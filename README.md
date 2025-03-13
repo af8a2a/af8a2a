@@ -1,16 +1,13 @@
 ## Hi there 👋
+I'm af8a2a,a Game Developer.
+- I'm interested in Game Development.
+- Rustacean, exploring the Rust language in Rendering;
+- [URP_Extension](https://github.com/af8a2a/URP_Extension) is a Unity Rendering Pipeline Extension.Implement my interest effect,features or tool in URP.
+- [Readings](https://github.com/af8a2a/readings) is a collection of reading materials.
+- [vk_rs](https://github.com/af8a2a/vk_rs) my Vulkan Playground in Rust.
+- [raytracing-rs](https://github.com/af8a2a/raytracing-rs) my toy Raytracing implement in Rust.
 
-<!--
-**af8a2a/af8a2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+* [Curriculum Vitae](asset/CurriculumVitae.pdf)
+---
+![](asset/mutsumi.jpg)
