@@ -7,7 +7,5 @@ I'm af8a2a,a Game Developer.
 - [vk_rs](https://github.com/af8a2a/vk_rs) my Vulkan Playground in Rust.
 - [raytracing-rs](https://github.com/af8a2a/raytracing-rs) my toy Raytracing implement in Rust.
 
---- 
-* [Curriculum Vitae](asset/CurriculumVitae.pdf)
----
+
 ![](asset/mutsumi.jpg)
